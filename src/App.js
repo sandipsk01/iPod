@@ -4,10 +4,13 @@ import Wheel from "./Wheel/Wheel";
 import Screen from './Screen/Screen';
 function App() {
   const style= {
-    height: 370,
-    width: 200,
+    height: 280,
+    width: 150,
     border: 'solid',
-    align: 'centre'
+    borderRadius:'8px',
+    position: 'relative',
+    marginTop: 150,
+    left: '45%'
   }
   return (
     <div className="App" style={style}>

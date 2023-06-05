@@ -3,8 +3,8 @@ import React from "react";
 const Screen=()=>{
     const style= {
         margin: 'auto', marginTop: '10px', marginBottom: '10px',
-        height: 200,
-        width: 180,
+        height: 150,
+        width: 130,
         border: 'solid',
         align: 'centre'
       }
