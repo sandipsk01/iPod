@@ -6,6 +6,7 @@ Amazing looking lock screen.
 Now playing Menu.
 Please contact me for any concerns.
 
+
 How to Use/Control?
 To unlock screen you have to press center button and to lock screen you have to press menu button in main menu.
 To play and pause music in any menu you need to press play/pause button on bottom.
