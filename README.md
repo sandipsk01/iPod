@@ -22,16 +22,6 @@
 6. To go to next menu or go inside a menu press center button and to go to previous menu press menu button
 7. Songs do play and Please checkout settings menu
 
-# Preview 
-
-### Lock Screen and Main Menu
-<img src="/assets/lock.png" width="380px" height="550px"> <img src="/assets/menu.png" width="390px" height="550px"></img>
-
-### Now Playing and Themes
-<img src="/assets/playing.png" width="400px" height="550px"></img> <img src="/assets/theme.png" width="390px" height="550px"></img>
-
-### Different theme and wallpaper applied
-<img src="/assets/themewall.png" width="360px" height="550px"></img>
 
 ## How To Install.
 
