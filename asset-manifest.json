@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/iPod_WebApp/static/css/main.dace5bcc.css",
+    "main.js": "/iPod_WebApp/static/js/main.54269a23.js",
+    "static/media/BlueJelly.png": "/iPod_WebApp/static/media/BlueJelly.f4c605133ffd5b465312.png",
+    "static/media/AudioTapes.png": "/iPod_WebApp/static/media/AudioTapes.a5d48d204e03408b41db.png",
+    "static/media/DHARIA  Sugar  Brownies.mp3": "/iPod_WebApp/static/media/DHARIA  Sugar  Brownies.a0d4eac39c571ea00726.mp3",
+    "static/media/BlueCubes.png": "/iPod_WebApp/static/media/BlueCubes.adafdb5ac63814c57e2b.png",
+    "static/media/Billie Eilish  Six Feet Under.mp3": "/iPod_WebApp/static/media/Billie Eilish  Six Feet Under.9b0aaec01894fcf0675f.mp3",
+    "static/media/Confetti  Ghost.mp3": "/iPod_WebApp/static/media/Confetti  Ghost.493a409a0d04290bb4ed.mp3",
+    "static/media/Jony Love Your Voice.mp3": "/iPod_WebApp/static/media/Jony Love Your Voice.cee175383b6b8fc7abdf.mp3",
+    "static/media/Besomorph  Silent Child  IDGAF.mp3": "/iPod_WebApp/static/media/Besomorph  Silent Child  IDGAF.f866dd625733920fbdd5.mp3",
+    "static/media/game.jpg": "/iPod_WebApp/static/media/game.39b5dc814246f5eafc3d.jpg",
+    "static/media/Besomorph  Silent Child  IDGAF.png": "/iPod_WebApp/static/media/Besomorph  Silent Child  IDGAF.303452e8320d49c9cd85.png",
+    "static/media/settings.png": "/iPod_WebApp/static/media/settings.e0158f7b671d8a93c11a.png",
+    "static/media/DHARIA  Sugar  Brownies.png": "/iPod_WebApp/static/media/DHARIA  Sugar  Brownies.dc287a1fdfaa4178ae8d.png",
+    "static/media/Jony Love Your Voice.png": "/iPod_WebApp/static/media/Jony Love Your Voice.d46ea72622934fd22499.png",
+    "static/media/Confetti  Ghost.png": "/iPod_WebApp/static/media/Confetti  Ghost.2ed2f5175a3bba2b7d20.png",
+    "static/media/Billie Eilish  Six Feet Under.png": "/iPod_WebApp/static/media/Billie Eilish  Six Feet Under.32aad8dc2ae7944eb489.png",
+    "index.html": "/iPod_WebApp/index.html",
+    "main.dace5bcc.css.map": "/iPod_WebApp/static/css/main.dace5bcc.css.map",
+    "main.54269a23.js.map": "/iPod_WebApp/static/js/main.54269a23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dace5bcc.css",
+    "static/js/main.54269a23.js"
+  ]
+}
