@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/iPod_WebApp/static/css/main.dace5bcc.css",
-    "main.js": "/iPod_WebApp/static/js/main.54269a23.js",
+    "main.js": "/iPod_WebApp/static/js/main.8b60f492.js",
     "static/media/BlueJelly.png": "/iPod_WebApp/static/media/BlueJelly.f4c605133ffd5b465312.png",
     "static/media/AudioTapes.png": "/iPod_WebApp/static/media/AudioTapes.a5d48d204e03408b41db.png",
     "static/media/DHARIA  Sugar  Brownies.mp3": "/iPod_WebApp/static/media/DHARIA  Sugar  Brownies.a0d4eac39c571ea00726.mp3",
@@ -19,10 +19,10 @@
     "static/media/Billie Eilish  Six Feet Under.png": "/iPod_WebApp/static/media/Billie Eilish  Six Feet Under.32aad8dc2ae7944eb489.png",
     "index.html": "/iPod_WebApp/index.html",
     "main.dace5bcc.css.map": "/iPod_WebApp/static/css/main.dace5bcc.css.map",
-    "main.54269a23.js.map": "/iPod_WebApp/static/js/main.54269a23.js.map"
+    "main.8b60f492.js.map": "/iPod_WebApp/static/js/main.8b60f492.js.map"
   },
   "entrypoints": [
     "static/css/main.dace5bcc.css",
-    "static/js/main.54269a23.js"
+    "static/js/main.8b60f492.js"
   ]
 }
